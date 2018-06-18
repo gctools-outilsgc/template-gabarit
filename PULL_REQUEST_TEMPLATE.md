@@ -39,8 +39,8 @@
 ## Liste de vérification:
 <!--- Passez en revue tous les points suivants, et mettez un `x` dans toutes les cases qui s'appliquent. -->
 <!--- Si vous n'êtes pas sûr de l'un d'eux, n'hésitez pas à demander. Nous sommes là pour vous aider! -->
-- [] Mon code suit le style de code de ce projet.
-- [] Ma modification nécessite une modification de la documentation.
-- [] J'ai mis à jour la documentation en conséquence.
-- [] J'ai ajouté des tests pour couvrir mes changements.
-- [] Tous les tests nouveaux et existants ont passés.
+- [ ] Mon code suit le style de code de ce projet.
+- [ ] Ma modification nécessite une modification de la documentation.
+- [ ] J'ai mis à jour la documentation en conséquence.
+- [ ] J'ai ajouté des tests pour couvrir mes changements.
+- [ ] Tous les tests nouveaux et existants ont passés.
