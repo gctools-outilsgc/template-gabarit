@@ -5,13 +5,13 @@
 <!--- As a <user type>, I <need/want> <goal/desire> so that I can <benefit> -->
 OR 
 ### Feature Driven Development
-<!--- <action> <a/the>  <result> <of/for> <object> -->
+<!--- <action> the <problem/result> <of/for> <object> -->
 
-## Expected Behavior
+## Expected Behaviour
 <!--- For a bug, describe what does happen. -->
 <!--- For an enhancement or change, describe how it should work.-->
 
-## Current Behavior
+## Actual Behaviour
 <!--- For a bug, describe what does happen instead of expected behaviour-->
 <!--- For an enhancement or change, describe how it would be different from expected behaviour-->
 
@@ -25,15 +25,14 @@ OR
 <!--- Fournir un résumé général de la question dans le titre ci-dessus -->
 
 ## Le contexte
-<!--- Comment ce problème vous a-t-il affecté? Qu'est-ce que vous essayez d'accomplir? -->
-<!--- Fournir un contexte nous aide à trouver la solution la plus utile dans le monde réel -->
 
-## Étapes à reproduire (pour les bogues)
-<!--- Fournir un lien vers un exemple en direct, ou un ensemble d'étapes non ambigu pour -->
-<!--- reproduire ce bug. Inclure le code à reproduire, le cas échéant -->
-1.
-2.
-3.
+### Histoire de l'utilisateur
+<!--- En tant que <type d'utilisateur>, j'ai <besoin / besoin> <objectif / désir> pour que je puisse <bénéficier> -->
+
+OU
+
+### Développement basé sur les fonctionnalités
+<!--- <action> le <problème/résultat> <de/pour> <objet> -->
 
 ## Comportement attendu
 <!--- Si vous décrivez un bug, dites-nous ce qui devrait arriver -->
@@ -42,3 +41,9 @@ OR
 ## Comportement actuel
 <!--- Si vous décrivez un bug, dites-nous ce qui se passe au lieu du comportement attendu -->
 <!--- Si vous suggérez un changement / amélioration, expliquez la différence par rapport au comportement actuel -->
+
+## Étapes à reproduire (pour les bogues)
+<!--- Fournir un lien vers un exemple en direct, si disponible -->
+<!--- Fournissez des étapes pour reproduire le bogue. Inclure les détails pertinents (captures d'écran, code, etc.) au besoin.-->
+1.
+2.
