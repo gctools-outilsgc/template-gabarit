@@ -29,7 +29,7 @@ Here are the code standards for different languages. We also have links to linte
 #### Test Coverage
 * [PHP Code Coverage for Codacy](https://github.com/codacy/python-codacy-coverage)
 
-### Javascript :godmode:
+### Javascript :godmode: :trophy:
 
 #### Code Style
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
@@ -73,6 +73,42 @@ Here are the code standards for different languages. We also have links to linte
 #### Linter
 * [Hadolint](https://github.com/hadolint/hadolint)
 
-## Document Naming Convention?
+## Document Naming Convention :surfer:
+
+### Design Working Files (.ai .psd .pdf) / Images / Folders / Git Branches :page_facing_up:
+
+:clap: ALL LOWERCASE :clap:
+:clap: Underscores '_' instead of spaces or dashes :clap:
+
+#### Versioning :clipboard:
+Major versions 
+* v01
+* v02
+* v03
+* etc
+
+Minor changes to version
+* v01_1
+* v01_2
+* etc
+
+A working design document on its second major version with a minor change:
+blog_home_v02_1.ai
+
+#### Folders :open_file_folder:
+Folder names should be descriptive, maybe something about folder structure?
+working_files
+
+#### Assets :camera:
+happy_cat.jpg
+logo.png
+
+
+#### Git Branches :deciduous_tree:
+Be descriptive with the purpose of the branch name. Use underscores '_' for spaces
+
+ex:
+blog_api_language_patch
+add_department_feature
 
 ## Reference
