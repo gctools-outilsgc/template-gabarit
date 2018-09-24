@@ -1,4 +1,9 @@
-# How to Contribute
+# Contributing
+
+([Français](#comment-contribuer))
+
+## How to Contribute
+
 **Do not post any security issues on github!** Security vulnerabilities must be reported by creating a ticket with the Digital Collaboration Division [help desk](https://gccollab.ca/help/knowledgebase).
 
 When contributing, post comments and discuss changes you wish to make via Issues.
@@ -7,8 +12,10 @@ Feel free to propose changes by creating Pull Requests. If you don't have write 
 
 If this is your first time contributing on GitHub, don't worry! Let us know if you have any questions.
 
+______________________
 
-# Comment contribuer
+## Comment contribuer
+
 **Ne publiez aucun problème de sécurité sur github!** Les vulnérabilités de sécurité doivent être signalées en créant un billet avec le [Bureau d'aide](https://gccollab.ca/help/knowledgebase) de la Division de la collaboration numérique.
 
 Lorsque vous contribuez, veuillez également publier des commentaires et discuter des modifications que vous souhaitez apporter par l'entremise des enjeux (Issues).
