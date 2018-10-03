@@ -1,6 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/gctools-outilsgc/template-gabarit.svg?branch=master)](https://travis-ci.org/gctools-outilsgc/template-gabarit)
-
 # README
+
+[![Build Status](https://secure.travis-ci.org/gctools-outilsgc/template-gabarit.svg?branch=master)](https://travis-ci.org/gctools-outilsgc/template-gabarit)
 
 ([Français](#nom-du-projet---gabarits-de-projet))
 
