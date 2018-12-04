@@ -6,13 +6,13 @@ Currently in draft.
 
 ## What to capture in release notes
 
-## When to post release notes
+## When to post release notes (versioning)
 
 ## How to implement release notes on new repositories
 
 ## When should release notes be more actively communicated to users?
 
-Release notes should be reviewed by a member of the User Experience team before being posted. Any major updates that should be more actively communicated to users should be identified and actioned by the Content Strategist or Technical Writer in the User Experience team. Some release (i.e. major feature updates or launch of a new product) should also be communicated by the Advocacy team. 
+Release notes should be reviewed by a member of the User Experience team before being posted. Any major updates that should be more actively communicated to users should be identified and actioned by the Content Strategist or Technical Writer in the User Experience team. Some releases (i.e. major feature updates or launch of a new product) should also be communicated by the Advocacy team. 
 
 Broader user communications should be actioned on the following releases:
 
