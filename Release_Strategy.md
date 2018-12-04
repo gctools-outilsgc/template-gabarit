@@ -10,6 +10,10 @@ Currently in draft.
 
 ## How to implement release notes on new repositories
 
+Since release notes are based on Github Pull Requests, developers and contributors should be providing clear and informative titles and full descriptions on all Pull Requests. Pull Request templates are available in this Templates repository. 
+
+Before publishing release notes with a new version number, a member of the User Experience team will review the individual logs for written clarity, though minimal edits should be required. 
+
 ## When should release notes be more actively communicated to users?
 
 Release notes should be reviewed by a member of the User Experience team before being posted. Any major updates that should be more actively communicated to users should be identified and actioned by the Content Strategist or Technical Writer in the User Experience team. Some releases (i.e. major feature updates or launch of a new product) should also be communicated by the Advocacy team. 
