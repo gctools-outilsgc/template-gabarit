@@ -4,6 +4,9 @@ Currently in draft.
 
 ## Research notes here
 
+### Github Releases ( https://github.com/{repo}/releases )
+I'll write some stuff here....
+
 ## What to capture in release notes
 
 ## When to post release notes (versioning)
