@@ -7,7 +7,7 @@ Currently in draft.
 ### Github Releases ( https://github.com/{repo}/releases )
 A github release is, technically, nothing more than a readme for a named point in the history of the repo (a tag) combined with some attached files. By default a release will have attached the repo's files from the point in history of the selected tag  in compressed file - .zip and .tar.gz formats. Additional files can be added to the release as needed.
 
-* Stuff about automation and templating will go here, also  https://help.github.com/articles/automation-for-release-forms-with-query-parameters/
+* Stuff about automation (for example https://github.com/toolmantim/release-drafter) and templating will go here, also  https://help.github.com/articles/automation-for-release-forms-with-query-parameters/
 
 ## What to capture in release notes
 
