@@ -16,7 +16,7 @@ Versions also serve the purpose of communicating progress to contributors and us
 
 ### The purpose of release notes
 
-Release notes are written based on Pull Requests, and give a detailed description of all commits and Pull Requests that were made during a certain time period (versions). These descriptions should provide enough detail so that a developer has an accurate picture of what changes were made to an application.  Using release tags also allows developers to return to previous versions of a repository, for better change management of code. 
+Release notes are written based on Pull Requests, and give a detailed description of all commits and Pull Requests that were merged into the Master branch during a certain time period (versions). These descriptions should provide enough detail so that a developer has an accurate picture of what changes were made to an application.  Using release tags also allows developers to return to previous versions of a repository, for better change management of code. 
 
 Release notes also serve as a communications tool for contibutors and users. Notes should be written in simple enough language that users can get a quick summary of new or removed features, improvements, and bug fixes. Versioning helps users understand how long an application has been in production, and the progress since first launch. By providing detailed release notes and versions, contributors (developers or otherwise), can return to a project at any time, and understand the progress of an application since their last contribution. Contributors can also keep tabs on the progress of an application, and contribute when it makes sense to them, without falling "out of the loop" on application progress. 
 
@@ -31,7 +31,7 @@ Since release notes are based on Github Pull Requests, developers and contributo
 
 Before publishing release notes with a new version number, a member of the User Experience team will review the individual logs for written clarity, though minimal edits should be required. 
 
-Product owners should sign off on the new version (i.e. all Pull Requests and release notes) before the Milestone is closed, the version is pushed to production, and release notes are published. 
+Product owners should sign off on the new version (i.e. all Pull Requests and release notes) before the Milestone is closed and release notes are published. 
 
 ## What to capture in release notes
 
