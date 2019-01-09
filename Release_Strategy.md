@@ -41,11 +41,11 @@ In general, release notes should fall under these headers: Additions, Removals, 
 
 Since release notes are based on Pull Requests, Pull Requests should identify which part of the application is being changed (i.e. which feature) and whether it is an addition, removal, improvement or bug fix. Information about each specific change will depend on which details are provided in the Pull Request. If more information is needed, the author of the release notes can also reference specific commits within the Pull Request. 
 
-## When to post release notes (versioning)
+## When to post release notes
 
-New versions for applications can be decided by the product owner. In general, versions may follow either a set sprint schedule (i.e. two sprints) or be based on a set number or significance of changes made to the application. We do not need to push a new version of an application every sprint, and not all applications need to follow the same versioning schedule. 
+New versions for applications can be decided by the product owner. In general, versions may follow either a set sprint schedule (i.e. two sprints) or be based on a set number or significance of changes made to the application. We do not need to release a new version of an application every sprint, and not all applications need to follow the same versioning schedule. 
 
-Versions can be integrated into our workflow using Milestones. Milestones are a Github feature that can be used to group together certain issues, categorize them, and set a target date to have said issues completed. Milestones can be created for each version of the application we want to release, and when a Milestone reaches 100% completion, we can then push the changes to production along with release notes. 
+Versions can be integrated into our workflow using Milestones. Milestones are a Github feature that can be used to group together certain issues, categorize them, and set a target date to have said issues completed. Milestones can be created for each version of the application we want to release, and when a Milestone reaches 100% completion, we can then publish release notes and share with users via regular communications channels. 
 
 ## When should release notes be more actively communicated to users?
 
